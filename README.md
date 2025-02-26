@@ -48,7 +48,7 @@ Awesome-ID-Customization
   
 * **FLUX-customID: Realistically Customize Your Personal ID to Perfection**
   
-  * 地址：https://github.com/damo-cv/FLUX-customID![](https://img.shields.io/github/stars/damo-cv/FLUX-customID.svg)
+  * 地址：https://github.com/damo-cv/FLUX-customID ![](https://img.shields.io/github/stars/damo-cv/FLUX-customID.svg)
     
   * [comfyui](https://github.com/leeguandong/ComfyUI_FluxCustomId)：
   
@@ -56,7 +56,7 @@ Awesome-ID-Customization
   
 * **Identity-Preserving Text-to-Video Generation by Frequency Decomposition**
   
-  * 地址：https://github.com/PKU-YuanGroup/ConsisID![](https://img.shields.io/github/stars/PKU-YuanGroup/ConsisID.svg)
+  * 地址：https://github.com/PKU-YuanGroup/ConsisID ![](https://img.shields.io/github/stars/PKU-YuanGroup/ConsisID.svg)
   * 架构图：
   
   ![image](pic/consistid.png)
@@ -111,7 +111,7 @@ Awesome-ID-Customization
   
 * **Character-Adapter: Prompt-Guided Region Control for High-Fidelity Character Customization**
 
-  * 地址：https://github.com/Character-Adapter/Character-Adapter![](https://img.shields.io/github/stars/Character-Adapter/Character-Adapter.svg)
+  * 地址：https://github.com/Character-Adapter/Character-Adapter ![](https://img.shields.io/github/stars/Character-Adapter/Character-Adapter.svg)
 
   * 架构图：
 
@@ -127,7 +127,7 @@ Awesome-ID-Customization
 
 * **FastComposer: Tuning-Free Multi-Subject Image Generation with Localized Attention**
 
-  * 地址：https://github.com/open-mmlab/mmagic/tree/main/configs/fastcomposer![](https://img.shields.io/github/stars/open-mmlab/mmagic.svg)
+  * 地址：https://github.com/open-mmlab/mmagic/tree/main/configs/fastcomposer ![](https://img.shields.io/github/stars/open-mmlab/mmagic.svg)
 
   * 架构图：
 
@@ -143,7 +143,7 @@ Awesome-ID-Customization
 
 * **MasterWeaver: Taming Editability and Identity for Personalized Text-to-Image Generation**
 
-  * 地址：https://github.com/csyxwei/MasterWeaver![](https://img.shields.io/github/stars/csyxwei/MasterWeaver.svg)
+  * 地址：https://github.com/csyxwei/MasterWeaver ![](https://img.shields.io/github/stars/csyxwei/MasterWeaver.svg)
 
   * 架构图：
 
@@ -151,7 +151,7 @@ Awesome-ID-Customization
 
 * **PhotoVerse: Tuning-Free Image Customization with Text-to-Image Diffusion Models**
 
-  * 地址：https://github.com/idonahum/photoVerse![](https://img.shields.io/github/stars/idonahum/photoVerse.svg)
+  * 地址：https://github.com/idonahum/photoVerse ![](https://img.shields.io/github/stars/idonahum/photoVerse.svg)
 
   * 架构图：
 
@@ -159,7 +159,7 @@ Awesome-ID-Customization
 
 * **UniPortrait: A Unified Framework for Identity-Preserving Single- and Multi-Human Image Personalization**
 
-  * 地址：https://github.com/junjiehe96/UniPortrait![](https://img.shields.io/github/stars/junjiehe96/UniPortrait.svg)
+  * 地址：https://github.com/junjiehe96/UniPortrait ![](https://img.shields.io/github/stars/junjiehe96/UniPortrait.svg)
 
   * 架构图：
 
@@ -175,7 +175,7 @@ Awesome-ID-Customization
 
 * **FlashFace: Human Image Personalization with High-fidelity Identity Preservation**
 
-  * 地址：https://github.com/ali-vilab/FlashFace![](https://img.shields.io/github/stars/ali-vilab/FlashFace.svg)
+  * 地址：https://github.com/ali-vilab/FlashFace ![](https://img.shields.io/github/stars/ali-vilab/FlashFace.svg)
 
   * 架构图：
 
