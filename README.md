@@ -195,8 +195,8 @@ Awesome-ID-Customization
 <a href="https://star-history.com/#leeguandong/Awesome-ID-Customization&Date">
 
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=leeguandong/Awesome-Chinese-Stable-Diffusion&type=Date&theme=dark" />
-    <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=leeguandong/Awesome-Chinese-Stable-Diffusion&type=Date" />
-    <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=leeguandong/Awesome-Chinese-Stable-Diffusion&type=Date" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=leeguandong/Awesome-ID-Customization&type=Date&theme=dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=leeguandong/Awesome-ID-Customization&type=Date" />
+    <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=leeguandong/Awesome-ID-Customization&type=Date" />
   </picture>
 </a>
