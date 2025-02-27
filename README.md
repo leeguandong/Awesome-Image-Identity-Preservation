@@ -123,7 +123,7 @@ Awesome-ID-Customization
 
   * 架构图：
 
-  ![image](pic/face adapter.png)
+  ![image](pic/faceadapter.png)
 
 * **FastComposer: Tuning-Free Multi-Subject Image Generation with Localized Attention**
 
