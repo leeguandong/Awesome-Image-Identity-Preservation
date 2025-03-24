@@ -60,6 +60,13 @@ Awesome-ID-Customization
   * 架构图：
   
   ![image](pic/consistid.png)
+
+  * **InfiniteYou: Flexible Photo Recrafting While Preserving Your Identity**
+  
+  * 地址：https://github.com/bytedance/InfiniteYou ![](https://img.shields.io/github/stars/bytedance/InfiniteYou.svg)
+  * 架构图：
+  
+  ![image](pic/infunet.png)
   
   
 #### 1.2 Unet模型
