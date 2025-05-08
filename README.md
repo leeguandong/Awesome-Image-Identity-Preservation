@@ -61,7 +61,7 @@ Awesome-ID-Customization
   
   ![image](pic/consistid.png)
 
-  * **InfiniteYou: Flexible Photo Recrafting While Preserving Your Identity**
+* **InfiniteYou: Flexible Photo Recrafting While Preserving Your Identity**
   
   * 地址：https://github.com/bytedance/InfiniteYou ![](https://img.shields.io/github/stars/bytedance/InfiniteYou.svg)
   * 架构图：
