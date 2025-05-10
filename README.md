@@ -96,6 +96,12 @@ Awesome-ID-Customization
   
   ![image](pic/diptych.png)
 
+* **DynamicID: Zero-Shot Multi-ID Image Personalization with Flexible Facial Editability**
+  
+  * 地址：https://arxiv.org/abs/2503.06505
+  * 架构图：
+  
+  ![image](pic/dynamicid.png)
 
 
 #### 1.2 Unet模型
