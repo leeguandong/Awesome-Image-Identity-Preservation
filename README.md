@@ -67,7 +67,13 @@ Awesome-ID-Customization
   * 架构图：
   
   ![image](pic/infunet.png)
+
+* **Less-to-More Generalization: Unlocking More Controllability by In-Context Generation**
   
+  * 地址：https://github.com/bytedance/UNO ![](https://img.shields.io/github/stars/bytedance/UNO.svg)
+  * 架构图：
+  
+  ![image](pic/uno.png)
   
 #### 1.2 Unet模型
 
