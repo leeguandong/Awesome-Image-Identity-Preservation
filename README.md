@@ -103,21 +103,21 @@ Awesome-ID-Customization
 
 * **InstantCharacter: Personalize Any Characters with a Scalable Diffusion Transformer Framework**
   
-  * 地址：https://github.com/Tencent/InstantCharacter ![](https://img.shields.io/github/stars/Tencent/InstantCharacter.svg))
+  * 地址：https://github.com/Tencent/InstantCharacter ![](https://img.shields.io/github/stars/Tencent/InstantCharacter.svg)
   * 架构图：
   
   ![image](pic/instantcharacter.png)
 
 * **RealCustom++: Representing Images as Real Text Word for Real-Time Customization**
   
-  * 地址：https://github.com/bytedance/RealCustom ![](https://img.shields.io/github/stars/bytedance/RealCustom.svg))
+  * 地址：https://github.com/bytedance/RealCustom ![](https://img.shields.io/github/stars/bytedance/RealCustom.svg)
   * 架构图：
   
   ![image](pic/realcustom++.jpg)
 
 * **DreamO: A Unified Framework for Image Customization**
   
-  * 地址：https://github.com/bytedance/DreamO ![](https://img.shields.io/github/stars/bytedance/DreamO.svg))
+  * 地址：https://github.com/bytedance/DreamO ![](https://img.shields.io/github/stars/bytedance/DreamO.svg)
   * 架构图：
   
   ![image](pic/dreamo.jpg)
