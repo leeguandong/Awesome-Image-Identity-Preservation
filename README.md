@@ -115,6 +115,12 @@ Awesome-ID-Customization
   
   ![image](pic/realcustom++.jpg)
 
+* **DreamO: A Unified Framework for Image Customization**
+  
+  * 地址：https://github.com/bytedance/DreamO ![](https://img.shields.io/github/stars/bytedance/DreamO.svg))
+  * 架构图：
+  
+  ![image](pic/dreamo.jpg)
 
 #### 1.2 Unet模型
 
