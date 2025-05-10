@@ -103,6 +103,12 @@ Awesome-ID-Customization
   
   ![image](pic/dynamicid.png)
 
+* **InstantCharacter: Personalize Any Characters with a Scalable Diffusion Transformer Framework**
+  
+  * 地址：https://github.com/Tencent/InstantCharacter ![](https://img.shields.io/github/stars/Tencent/InstantCharacter.svg))
+  * 架构图：
+  
+  ![image](pic/instantcharacter.png)
 
 #### 1.2 Unet模型
 
