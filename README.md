@@ -110,6 +110,14 @@ Awesome-ID-Customization
   
   ![image](pic/instantcharacter.png)
 
+* **RealCustom++: Representing Images as Real Text Word for Real-Time Customization**
+  
+  * 地址：https://github.com/bytedance/RealCustom ![](https://img.shields.io/github/stars/bytedance/RealCustom.svg))
+  * 架构图：
+  
+  ![image](pic/realcustom++.png)
+
+
 #### 1.2 Unet模型
 
 * **PortraitBooth: A Versatile Portrait Model for Fast Identity-preserved Personalization**
@@ -244,6 +252,14 @@ Awesome-ID-Customization
   * 架构图：
 
   ![image](pic/dreamid.png)
+
+* **ID-Booth: Identity-consistent Face Generation with Diffusion Models**
+
+* 地址：https://github.com/dariant/ID-Booth ![](https://img.shields.io/github/stars/dariant/ID-Booth.svg)
+
+* 架构图：
+
+![image](pic/dreamid.png)
 
 ###  2. <a name='评测'></a>测评
 
