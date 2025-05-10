@@ -40,19 +40,17 @@ Awesome-ID-Customization
 
 * **PuLID: Pure and Lightning ID Customization via Contrastive Alignment**
   
-  * 地址：https://github.com/ToTheBeginning/PuLID ![](https://img.shields.io/github/stars/ToTheBeginning/PuLID.svg)
-  
+  * 地址：https://github.com/ToTheBeginning/PuLID ![](https://img.shields.io/github/stars/ToTheBeginning/PuLID.svg)  
   * 架构图：
   
    ![image](pic/pulid.png)
   
 * **FLUX-customID: Realistically Customize Your Personal ID to Perfection**
   
-  * 地址：https://github.com/damo-cv/FLUX-customID ![](https://img.shields.io/github/stars/damo-cv/FLUX-customID.svg)
-    
+  * 地址：https://github.com/damo-cv/FLUX-customID ![](https://img.shields.io/github/stars/damo-cv/FLUX-customID.svg)    
   * [comfyui](https://github.com/leeguandong/ComfyUI_FluxCustomId)：
   
-    ![image](pic/flux-customid.png)
+   ![image](pic/flux-customid.png)
   
 * **Identity-Preserving Text-to-Video Generation by Frequency Decomposition**
   
