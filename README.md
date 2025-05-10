@@ -115,7 +115,7 @@ Awesome-ID-Customization
   * 地址：https://github.com/bytedance/RealCustom ![](https://img.shields.io/github/stars/bytedance/RealCustom.svg))
   * 架构图：
   
-  ![image](pic/realcustom++.png)
+  ![image](pic/realcustom++.jpg)
 
 
 #### 1.2 Unet模型
