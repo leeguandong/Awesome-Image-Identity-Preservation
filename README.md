@@ -74,6 +74,13 @@ Awesome-ID-Customization
   * 架构图：
   
   ![image](pic/uno.png)
+
+* **ACE++: Instruction-Based Image Creation and Editing via Context-Aware Content Fillingn**
+  
+  * 地址：https://github.com/ali-vilab/ACE_plus ![](https://img.shields.io/github/stars/ali-vilab/ACE_plus.svg)
+  * 架构图：
+  
+  ![image](pic/ace++.png)
   
 #### 1.2 Unet模型
 
