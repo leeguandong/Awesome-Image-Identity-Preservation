@@ -134,8 +134,7 @@ Awesome-ID-Customization
   
 * **ConsistentID : Portrait Generation with Multimodal Fine-Grained Identity Preserving**
   
-  * 地址：https://github.com/JackAILab/ConsistentID ![](https://img.shields.io/github/stars/JackAILab/ConsistentID.svg)
-  
+  * 地址：https://github.com/JackAILab/ConsistentID ![](https://img.shields.io/github/stars/JackAILab/ConsistentID.svg)  
   * 架构图：
   
   ![image](pic/consistantid.png)
@@ -143,7 +142,6 @@ Awesome-ID-Customization
 * **PhotoMaker: Customizing Realistic Human Photos via Stacked ID Embedding**
 
   * 地址：https://github.com/TencentARC/PhotoMaker ![](https://img.shields.io/github/stars/TencentARC/PhotoMaker.svg)
-
   * 架构图：
 
   ![image](pic/photomaker.png)
@@ -158,7 +156,6 @@ Awesome-ID-Customization
 * **InstantID: Zero-shot Identity-Preserving Generation in Seconds**
 
   * 地址：https://github.com/instantX-research/InstantID ![](https://img.shields.io/github/stars/instantX-research/InstantID.svg)
-
   * 架构图：
 
   ![image](pic/instantid.png)
@@ -166,7 +163,6 @@ Awesome-ID-Customization
 * **Character-Adapter: Prompt-Guided Region Control for High-Fidelity Character Customization**
 
   * 地址：https://github.com/Character-Adapter/Character-Adapter ![](https://img.shields.io/github/stars/Character-Adapter/Character-Adapter.svg)
-
   * 架构图：
 
   ![image](pic/character-adapter.png)
@@ -174,7 +170,6 @@ Awesome-ID-Customization
 * **Face Adapter for Pre-Trained Diffusion Models with Fine-Grained ID and Attribute Control**
 
   * 地址：https://github.com/FaceAdapter/Face-Adapter ![](https://img.shields.io/github/stars/FaceAdapter/Face-Adapter.svg)
-
   * 架构图：
 
   ![image](pic/faceadapter.png)
@@ -182,7 +177,6 @@ Awesome-ID-Customization
 * **FastComposer: Tuning-Free Multi-Subject Image Generation with Localized Attention**
 
   * 地址：https://github.com/open-mmlab/mmagic/tree/main/configs/fastcomposer ![](https://img.shields.io/github/stars/open-mmlab/mmagic.svg)
-
   * 架构图：
 
   ![image](pic/fastcomposer.png)
@@ -190,7 +184,6 @@ Awesome-ID-Customization
 * **IC-Portrait: In-Context Matching for View-Consistent Personalized Portrait Generation**
 
   * 地址：https://arxiv.org/abs/2501.17159
-
   * 架构图：
 
   ![image](pic/ic-portrait.png)
@@ -198,7 +191,6 @@ Awesome-ID-Customization
 * **MasterWeaver: Taming Editability and Identity for Personalized Text-to-Image Generation**
 
   * 地址：https://github.com/csyxwei/MasterWeaver ![](https://img.shields.io/github/stars/csyxwei/MasterWeaver.svg)
-
   * 架构图：
 
   ![image](pic/masterweaver.jpg)
@@ -206,7 +198,6 @@ Awesome-ID-Customization
 * **PhotoVerse: Tuning-Free Image Customization with Text-to-Image Diffusion Models**
 
   * 地址：https://github.com/idonahum/photoVerse ![](https://img.shields.io/github/stars/idonahum/photoVerse.svg)
-
   * 架构图：
 
   ![image](pic/photoverse.png)
@@ -214,7 +205,6 @@ Awesome-ID-Customization
 * **UniPortrait: A Unified Framework for Identity-Preserving Single- and Multi-Human Image Personalization**
 
   * 地址：https://github.com/junjiehe96/UniPortrait ![](https://img.shields.io/github/stars/junjiehe96/UniPortrait.svg)
-
   * 架构图：
 
   ![image](pic/uniportrait.png)
@@ -222,7 +212,6 @@ Awesome-ID-Customization
 * **RealisID: Scale-Robust and Fine-Controllable Identity Customization via Local and Global Complementation**
 
   * 地址：https://arxiv.org/abs/2412.16832
-
   * 架构图：
 
   ![image](pic/realisid.png)
@@ -230,7 +219,6 @@ Awesome-ID-Customization
 * **FlashFace: Human Image Personalization with High-fidelity Identity Preservation**
 
   * 地址：https://github.com/ali-vilab/FlashFace ![](https://img.shields.io/github/stars/ali-vilab/FlashFace.svg)
-
   * 架构图：
 
   ![image](pic/flashface.png)
@@ -238,7 +226,6 @@ Awesome-ID-Customization
 * **Turn That Frown Upside Down:FaceID Customization via Cross-Training Data**
 
   * 地址：https://github.com/ShuheSH/CrossFaceID ![](https://img.shields.io/github/stars/ShuheSH/CrossFaceID.svg)
-
   * 架构图：
 
   ![image](pic/crossid.png)
@@ -246,18 +233,16 @@ Awesome-ID-Customization
 * **DreamID: High-Fidelity and Fast diffusion-based Face Swapping via Triplet ID Group Learning**
 
   * 地址：https://github.com/superhero-7/DreamID ![](https://img.shields.io/github/stars/superhero-7/DreamID.svg)
-
   * 架构图：
 
   ![image](pic/dreamid.png)
 
 * **ID-Booth: Identity-consistent Face Generation with Diffusion Models**
 
-* 地址：https://github.com/dariant/ID-Booth ![](https://img.shields.io/github/stars/dariant/ID-Booth.svg)
-
-* 架构图：
-
-![image](pic/id_booth.png)
+  * 地址：https://github.com/dariant/ID-Booth ![](https://img.shields.io/github/stars/dariant/ID-Booth.svg)
+  * 架构图：
+  
+  ![image](pic/id_booth.png)
 
 ###  2. <a name='评测'></a>测评
 
