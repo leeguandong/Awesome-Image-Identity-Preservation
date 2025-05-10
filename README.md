@@ -44,7 +44,7 @@ Awesome-ID-Customization
   
   * 架构图：
   
-    ![image](pic/pulid.png)
+   ![image](pic/pulid.png)
   
 * **FLUX-customID: Realistically Customize Your Personal ID to Perfection**
   
