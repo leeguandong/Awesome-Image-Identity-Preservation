@@ -259,7 +259,7 @@ Awesome-ID-Customization
 
 * 架构图：
 
-![image](pic/dreamid.png)
+![image](pic/id_booth.png)
 
 ###  2. <a name='评测'></a>测评
 
