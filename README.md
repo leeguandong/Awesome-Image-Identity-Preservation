@@ -81,7 +81,18 @@ Awesome-ID-Customization
   * 架构图：
   
   ![image](pic/ace++.png)
+
+* **Personalize Anything for Free with Diffusion Transformer**
   
+  * 地址：https://github.com/fenghora/personalize-anything ![](https://img.shields.io/github/stars/fenghora/personalize-anything.svg)
+  * 架构图：
+  
+  ![image](pic/personalize_anything.png)
+
+
+
+
+
 #### 1.2 Unet模型
 
 * **PortraitBooth: A Versatile Portrait Model for Fast Identity-preserved Personalization**
