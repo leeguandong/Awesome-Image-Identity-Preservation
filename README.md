@@ -231,6 +231,14 @@ Awesome-ID-Customization
 
   ![image](pic/crossid.png)
 
+* **DreamID: High-Fidelity and Fast diffusion-based Face Swapping via Triplet ID Group Learning**
+
+  * 地址：https://github.com/superhero-7/DreamID ![](https://img.shields.io/github/stars/superhero-7/DreamID.svg)
+
+  * 架构图：
+
+  ![image](pic/dreamid.png)
+
 ###  2. <a name='评测'></a>测评
 
 
