@@ -89,7 +89,12 @@ Awesome-ID-Customization
   
   ![image](pic/personalize_anything.png)
 
-
+* **Large-Scale Text-to-Image Model with Inpainting is a Zero-Shot Subject-Driven Image Generator**
+  
+  * 地址：https://github.com/wuyou22s/Diptych ![](https://img.shields.io/github/stars/wuyou22s/Diptych.svg)
+  * 架构图：
+  
+  ![image](pic/diptych.png)
 
 
 
