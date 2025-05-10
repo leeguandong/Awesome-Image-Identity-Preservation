@@ -120,7 +120,7 @@ Awesome-ID-Customization
   * 地址：https://github.com/bytedance/DreamO ![](https://img.shields.io/github/stars/bytedance/DreamO.svg)
   * 架构图：
   
-  ![image](pic/dreamo.jpg)
+  ![image](pic/dreamo.png)
 
 * **FlexIP: Dynamic Control of Preservation and Personality for Customized Image Generation**
   
