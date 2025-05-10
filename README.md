@@ -221,8 +221,15 @@ Awesome-ID-Customization
 
   * 架构图：
 
-
   ![image](pic/flashface.png)
+
+* **Turn That Frown Upside Down:FaceID Customization via Cross-Training Data**
+
+  * 地址：https://github.com/ShuheSH/CrossFaceID ![](https://img.shields.io/github/stars/ShuheSH/CrossFaceID.svg)
+
+  * 架构图：
+
+  ![image](pic/crossid.png)
 
 ###  2. <a name='评测'></a>测评
 
