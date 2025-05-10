@@ -122,6 +122,13 @@ Awesome-ID-Customization
   
   ![image](pic/dreamo.jpg)
 
+* **FlexIP: Dynamic Control of Preservation and Personality for Customized Image Generation**
+  
+  * 地址：https://arxiv.org/abs/2504.07405
+  * 架构图：
+  
+  ![image](pic/flexip.jpg)
+
 #### 1.2 Unet模型
 
 * **PortraitBooth: A Versatile Portrait Model for Fast Identity-preserved Personalization**
