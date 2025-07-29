@@ -38,7 +38,7 @@ Awesome-ID-Customization
 
 #### 1.1 Flux模型
 
-* **PuLID: Pure and Lightning ID Customization via Contrastive Alignment**
+* **EditID: Training-Free Editable ID Customization for Text-to-Image Generation**
   
   * 地址：https://github.com/leeguandong/IBench ![](https://img.shields.io/github/stars/typemovie/IBench.svg)  
   * 架构图：
