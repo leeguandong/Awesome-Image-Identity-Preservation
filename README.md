@@ -40,6 +40,14 @@ Awesome-ID-Customization
 
 * **PuLID: Pure and Lightning ID Customization via Contrastive Alignment**
   
+  * 地址：https://github.com/leeguandong/IBench ![](https://img.shields.io/github/stars/typemovie/IBench.svg)  
+  * 架构图：
+  
+   ![image](pic/editid.png)
+
+
+* **PuLID: Pure and Lightning ID Customization via Contrastive Alignment**
+  
   * 地址：https://github.com/ToTheBeginning/PuLID ![](https://img.shields.io/github/stars/ToTheBeginning/PuLID.svg)  
   * 架构图：
   
