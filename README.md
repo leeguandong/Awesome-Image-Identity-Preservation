@@ -137,7 +137,7 @@ Awesome-ID-Customization
   
   ![image](pic/flexip.jpg)
 
-* **FlexIP: Dynamic Control of Preservation and Personality for Customized Image Generation**
+* **XVerse: Consistent Multi-Subject Control of Identity and Semantic Attributes via DiT Modulation**
   
   * 地址：https://github.com/bytedance/XVerse ![](https://img.shields.io/github/stars/bytedance/XVerse.svg)
   * 架构图：
