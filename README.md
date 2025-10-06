@@ -45,6 +45,12 @@ Awesome-ID-Customization
   
    ![image](pic/editid.png)
 
+* **EditIDv2: Editable ID Customization with Data-Lubricated ID Feature Integration for Text-to-Image Generation**
+  
+  * 地址：https://github.com/typemovie/EditIDv2 ![](https://img.shields.io/github/starstypemovie/EditIDv2.svg)
+  * 架构图：
+  
+  ![image](pic/editidv2.png)
 
 * **PuLID: Pure and Lightning ID Customization via Contrastive Alignment**
   
@@ -143,6 +149,9 @@ Awesome-ID-Customization
   * 架构图：
   
   ![image](pic/xverse.png)
+
+
+
   
 
 #### 1.2 Unet模型
