@@ -150,12 +150,12 @@ Awesome-ID-Customization
   
   ![image](pic/xverse.png)
 
-* **MO: Scaling Multi-Identity Consistency for Image Customization via Matching Reward**
+* **UMO: Scaling Multi-Identity Consistency for Image Customization via Matching Reward**
   
   * 地址：https://github.com/bytedance/UMO ![](https://img.shields.io/github/stars/bytedance/UMO.svg)
   * 架构图：
   
-  ![image](pic/uno.png)
+  ![image](pic/umo.png)
 
 
   
